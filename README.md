@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Luis Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Luis Lucas! </h2>
 <p><em>Statistical Enginnering at <a href="http://www.uni.edu.pe">National University of Engineering</a>
 </br>Computer Science at <a href="http://www.uni.edu.pe">National University of Engineering</a>
 </br>Data Sciencist<a href="https://www.sunat.gob.pe">SUNAT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
